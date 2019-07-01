@@ -1,0 +1,269 @@
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body
+{
+	background-image: url(https://cdn.pixabay.com/photo/2016/08/17/17/38/piano-1601094_960_720.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	font-family: 'Yesteryear', cursive;
+	font-size: 16px;
+}
+
+
+.page
+{
+	margin: 0 auto;
+	width: 900px;
+	border: 5px dotted #66202A;
+	background-color: #8B7366;
+}
+
+.menu
+{
+	height: 100px;
+	background-color: #B2D6FF;
+	background-image: url(../images/86282.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-size: 40px;
+}
+
+p.menucontent
+{
+	padding-top: 25px;
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+
+
+/*.sidebar
+{
+	height: 300px;
+	width: 200px;
+	background-color: #8FB0A9;
+	background-image: url();
+	float: right;
+	}*/
+
+	.content
+	{
+		width: 650px;
+		height: 500px;
+		float: left;
+		background-color: #F5CF8E;
+		padding: 20px;
+		background-image: url(https://previews.123rf.com/images/pdreams/pdreams1207/pdreams120700173/14619731-vintage-music-background.jpg);
+		overflow: scroll;
+		font-size: 30px;	
+	}
+
+	.footer
+	{
+		background-color: #D6E9FE;
+		clear: both;
+	}
+
+	.column1
+	{
+		background-color: #FDF0C4;
+		height: 160px;
+		width: 30%;
+		margin: 20px 1.16%;
+		float: left;
+		overflow: scroll;
+		font-family: Arial;
+		background-image: url(../images/86282.jpg);
+
+	}
+
+	.column2
+	{
+		background-color: #F7A992;
+		height: 160px;
+		width: 30%;
+		margin: 20px 1.16%;
+		float: left;
+		overflow: scroll;
+		background-image: url(../images/86282.jpg);
+		font-family: Arial;
+	}
+
+	.column3
+	{
+		background-color: #82A0C2;
+		height: 160px;
+		width: 30%;
+		margin: 20px 1.16%;
+		float: left;
+		overflow: scroll;
+		background-image: url(../images/86282.jpg);
+		font-family: Arial;
+	}
+
+	.column4
+	{
+		background-color: #4C364D;
+		height: 160px;
+		width: 30%;
+		margin: 20px 1.16%;
+		float: left;
+		overflow: scroll;
+		background-image: url(../images/86282.jpg);
+		font-family: Arial;
+	}
+
+	.column5
+	{
+		background-color: #537479;
+		height: 160px;
+		width: 30%;
+		margin: 20px 1.16%;
+		float: left;
+		overflow: scroll;
+		background-image: url(../images/86282.jpg);
+		font-family: Arial;
+	}
+
+	.column6
+	{
+		background-color: #41354D;
+		height: 160px;
+		width: 30%;
+		margin: 20px 1.16%;
+		float: left;
+		overflow: scroll;
+		background-image: url(../images/86282.jpg);
+		font-family: Arial;
+	}
+
+
+
+	.footer div
+	{
+		display: inline-block;
+	}
+	.clear::after
+	{
+		content: "";
+		clear: both;
+		display: table;
+	}
+
+	.article-image
+	{
+		float: left;
+		width: 300px;
+		height: 200px;
+		margin-right: 20px;
+		margin-bottom: 20px;
+	}
+
+	p
+	{
+		margin-bottom: 20px;
+	}
+
+	.avatar1
+	{
+		float: left;
+		width: 60px;
+		height: 60px;
+		margin: 25px;
+		border-radius: 40px;
+		background-color: black;
+
+	}
+
+	.avatar2
+	{
+		float: left;
+		width: 60px;
+		height: 60px;
+		margin: 25px;
+		border-radius: 40px;
+		background-color: white;
+	}
+
+	.avatar3
+	{
+		float: left;
+		width: 60px;
+		height: 60px;
+		margin: 25px;
+		border-radius: 40px;
+		background-color: blue;
+	}
+
+	.avatar4
+	{
+		float: left;
+		width: 60px;
+		height: 60px;
+		margin: 25px;
+		border-radius: 40px;
+		background-color: red;
+	}
+
+	.avatar5
+	{
+		float: left;
+		width: 60px;
+		height: 60px;
+		margin: 25px;
+		border-radius: 40px;
+		background-color: green;
+	}
+
+	.avatar6
+	{
+		float: left;
+		width: 60px;
+		height: 60px;
+		margin: 25px;
+		border-radius: 40px;
+		background-color: indigo;
+	}
+
+
+	.username
+	{
+		margin-top:30px; 
+	}
+
+	.comment
+	{
+		margin: 10px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
